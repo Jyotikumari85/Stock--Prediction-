@@ -10,6 +10,3 @@ In this project we have a dataset containing stock prices of Google from January
 
 **Language used:** Python
 
-**BlogPost:** Work in Progress
-
-**Try it Yourself:** You can download and execute the python file after installing all the tools used.
