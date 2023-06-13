@@ -10,8 +10,6 @@ In this project we have a dataset containing stock prices of Google from January
 
 **Language used:** Python
 
-**Project:** To see the project simply open the Jupyter Notebook, ["Stock Price Prediction.ipynb"](https://github.com/Meghana-Meghana/Stock-Price-Prediction/blob/master/Stock%20Price%20Prediction.ipynb)
-
 **BlogPost:** Work in Progress
 
 **Try it Yourself:** You can download and execute the python file after installing all the tools used.
